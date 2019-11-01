@@ -1,10 +1,10 @@
-# CarteSim-GCPHONE (Instalation)
+# CarteSim-GCPHONE (installation)
 Pour commencer vous aller télecharger le zip .
 Apres vous allez mettre de [gcphone] dans votre dossier resources .
 Dans Votre dossier gcphone vous allez trouver 3 sql vous allez tousse les inserer dans votre mysql .
 Apres vous allez dans votre categorie shops dans votre mysql (phpmyadmin) .
 
-# Instalation Carte Sim  
+# installation Carte Sim  
 La vous allez appuyez sûre insérer .
 
 Dans ID vous allez mettre un ID qui est pas pris pare exemple 200 .
@@ -13,7 +13,7 @@ Dans Item vous mettez sim .
 Dans Price vous mettez le prix que vous voullez .
 Et ca vous le faites avec les 2 autre shop / RobsLiquor / et / TwentyFourSeven / .
 
-# Instalation Tel
+# installation Tel
 La vous allez appuyez sûre insérer .
 
 Dans ID vous allez mettre un ID qui est pas pris pare exemple 300 .
