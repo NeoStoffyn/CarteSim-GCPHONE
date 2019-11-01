@@ -1,6 +1,6 @@
 # CarteSim-GCPHONE (installation)
 Pour commencer vous aller télecharger le zip .
-Apres vous allez mettre de [gcphone] dans votre dossier resources .
+Apres vous allez mettre le [gcphone] dans votre dossier resources .
 Dans Votre dossier gcphone vous allez trouver 3 sql vous allez tousse les inserer dans votre mysql .
 Apres vous allez dans votre categorie shops dans votre mysql (phpmyadmin) .
 
