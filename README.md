@@ -27,4 +27,8 @@ Et ca vous le faites avec les 2 autre shop / RobsLiquor / et / TwentyFourSeven /
 Ci vous avez besoins d'aide allez sûre le discord : https://discord.gg/vcaD22z
 
 
-
+![Image of gcphone1](https://i.imgur.com/naTiBgI.png)
+![Image of gcphone2](https://i.imgur.com/LAicovK.png)
+![Image of gcphone3](https://i.imgur.com/imWPohA.png)
+![Image of gcphone4](https://i.imgur.com/rzWdDMy.png)
+![Image of gcphone5](https://i.imgur.com/9h7eiI8.png)
