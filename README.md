@@ -2,9 +2,9 @@
 Pour commencer vous aller télecharger le zip .
 Apres vous allez mettre le [gcphone] dans votre dossier resources .
 Dans Votre dossier gcphone vous allez trouver 3 sql vous allez tous les inserer dans votre mysql .
-Apres vous allez dans votre categorie shops dans votre mysql (phpmyadmin) .
 
 # installation Carte Sim  
+Apres vous allez dans votre categorie shops dans votre mysql (phpmyadmin) .
 La vous allez appuyez sûre insérer .
 
 Dans ID vous allez mettre un ID qui est pas pris pare exemple 200 .
@@ -23,8 +23,11 @@ Dans Price vous mettez le prix que vous voullez .
 Et ca vous le faites avec les 2 autre shop / RobsLiquor / et / TwentyFourSeven / .
 
 (Ci vous vouler changer le nom dans le shop allez dans item et changer le label)
-# fonctionnalité 
+
 Ci vous avez besoins d'aide allez sûre le discord : https://discord.gg/vcaD22z
+# fonctionnalité 
+
+
 
 
 ![Image of gcphone1](https://i.imgur.com/naTiBgI.png)
