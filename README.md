@@ -26,8 +26,8 @@ Et ca vous le faites avec les 2 autre shop / RobsLiquor / et / TwentyFourSeven /
 
 Ci vous avez besoins d'aide allez sûre le discord : https://discord.gg/vcaD22z
 # fonctionnalité 
-Pour ouvrire le menu carte sim [F2]
-Pour ouvrire le tel [F1]
+Pour ouvrir le menu carte sim [F2]
+Pour ouvrir le tel [F1]
 
 
 ![Image of gcphone1](https://i.imgur.com/naTiBgI.png)
