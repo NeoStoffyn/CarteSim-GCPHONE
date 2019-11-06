@@ -25,6 +25,7 @@ Et ca vous le faites avec les 2 autre shop / RobsLiquor / et / TwentyFourSeven /
 (Ci vous vouler changer le nom dans le shop allez dans item et changer le label)
 
 Ci vous avez besoins d'aide allez sûre le discord : https://discord.gg/vcaD22z
+Ci vous voulez la vidéo expliquant comment l'installer : https://youtu.be/g9FGUkxJt8E
 # fonctionnalité 
 Pour ouvrir le menu carte sim [F2]
 Pour ouvrir le tel [F1]
